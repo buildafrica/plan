@@ -189,27 +189,9 @@ consent that we we give your name and contact details to the Police?
 
 
 
-
-
-
-
-
-
-
-
 ## How do we Questions
 -     if ordinary users are allowed to supply information?
 -     How do we verify validity of submitted information ?
 -     If we allow users to signup for alerts via email, to help spread and notify other media/law/etc bodies about newly reported missing cases (see http://www.missingkids.org/amber)
         - Who can signup for amber alerts ?
 -     How do we ensure adoption of the program ?
-
-
-
-
-
-| LABEL  NAME	| DESCRIPTION               |
-| --------    | ------                    |
-| Description	| About the missing person  |
-| Full Name	  | Full name of mising person|
-| Address	  	| Address                   |

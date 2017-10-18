@@ -1,10 +1,10 @@
 # BLUE TEAM
 
 - Project Manager
-	Andrew Miracle
+	chibuzor_in
 
 - Backend(2)
-	Chibuzor
+	tayo_o
 	Mczlatan
 
 
@@ -25,7 +25,7 @@
 	say_rah
 
 - Backend(2)
-	tayo_o
+	mr_fojo
 	yudori
 
 
@@ -35,9 +35,3 @@
 
 
 - UI and UX(1)
-
-
-lakunleD
-
-
-
