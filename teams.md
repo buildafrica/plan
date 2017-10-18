@@ -1,37 +1,19 @@
-# BLUE TEAM
 
-- Project Manager
-	chibuzor_in
+### BLUE TEAM
 
-- Backend(2)
-	tayo_o
-	Mczlatan
-
-
-- Frontend(2)
-	akinlekan
-	subomi
-
-
-- UI and UX(1)
-	pete
+| Project Manager	| Backend	| Frontend	|	UI Designer	|
+| ---------------	| -------	| --------	| -----------	|
+| chibuzor_in			| tayo_o	|	akinlekan	| Pete.a			|
+|				-					|	Mczlatan |	subomi	|		-					|
 
 
 
 
-# RED TEAM
-
-- Project Manager
-	say_rah
-
-- Backend(2)
-	mr_fojo
-	yudori
 
 
-- Frontend(2)
-	jalasem
-	cod3blvck
+### RED TEAM
 
-
-- UI and UX(1)
+| Project Manager	|	Backend		|	Frontend	|	UI Designer	|
+| ---							|	---				|	---				|	---					|
+|	say_rah					|	mr_fojo		|	jalasem		|	null				|
+|									|	yudori		|	cod3blvck	|	---					|
