@@ -189,9 +189,5 @@ consent that we we give your name and contact details to the Police?
 
 
 
-## How do we Questions
--     if ordinary users are allowed to supply information?
--     How do we verify validity of submitted information ?
--     If we allow users to signup for alerts via email, to help spread and notify other media/law/etc bodies about newly reported missing cases (see http://www.missingkids.org/amber)
-        - Who can signup for amber alerts ?
--     How do we ensure adoption of the program ?
+### Third Meeting Narrative 
+We agreed on letting users regulate content by putting in a report button and letting them 'vouch' for cases where more vouches means a case is more trustworthy. We also decided on restricting ambers alerts to law enforcement officials who will be logged in through special log in info available to every official in a particular branch/department. `by @tayoogunbiyi`
