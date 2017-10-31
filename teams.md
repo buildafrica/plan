@@ -4,7 +4,7 @@
 | Project Manager	| Backend	| Frontend	|	UI Designer	|
 | ---------------	| -------	| --------	| -----------	|
 | chibuzor_in			| tayo_o	|	akinlekan	| Pete.a			|
-|				-					|	Mczlatan |	subomi	|		-					|
+|				-					|	paras   |	subomi   	|		-					|
 
 
 
@@ -15,5 +15,5 @@
 
 | Project Manager	|	Backend		|	Frontend	|	UI Designer	|
 | ---							|	---				|	---				|	---					|
-|	say_rah					|	mr_fojo		|	jalasem		|	null				|
-|									|	yudori		|	cod3blvck	|	---					|
+|	say_rah					|	mr_fojo		|	jalasem		|	---   			|
+|									|	yudori		|	cod3blvck	|	tonychuks7	|
